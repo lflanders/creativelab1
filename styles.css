@@ -1,5 +1,5 @@
 #navbar {
-    background-color: #a3b899;
+    background-color: #C8D4D3;
 }
 
 .navbar-brand {
@@ -47,6 +47,7 @@ h2 {
   align-items: center;
   justify-content: center;
   padding-bottom: 5%;
+  padding-top: 5%;
 }
 
 .image {
@@ -61,4 +62,11 @@ h2 {
 
 body {
   background:	#fceee9;
+}
+
+.footer {
+  padding: 60px;
+  text-align: center;
+  background: #C8D4D3;
+  color: #803c00;
 }
