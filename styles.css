@@ -1,12 +1,13 @@
+#navbar {
+    background-color: #a3b899;
+}
+
 .navbar-brand {
-  font-family: serif, Garamond;
+  font-family: apple chancery;
 }
-.navbar {
-  background-color: #C8D4D3;
-}
-.nav-item {
-  font-family: serif, Garamond;
-  color: #693e3a;
+
+.nav-link {
+  font-family: tahoma;
 }
 
 .header {
